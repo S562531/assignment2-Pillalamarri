@@ -14,7 +14,7 @@ FootBall
 
 1. Sunil Chhetri
 2. Gurpreet Singh Sandhu
-3.Anirudh Thapa
+3. Anirudh Thapa
 
 The other teams that you think would be good to watch play
 
