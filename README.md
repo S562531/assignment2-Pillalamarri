@@ -45,3 +45,39 @@ If I had to choose between travel and money, I would choose travel. because trav
 > *“Never criticize your spouse’s faults; if it weren’t for them, your mate might have found someone better than you.” —Jay Trachman*
 
 > *“Instead of getting married again, I’m going to find a woman I don’t like and give her a house.” —Rod Stewart*
+
+---
+
+> Sticky footer?
+
+Stack Overflow link: <https://stackoverflow.com/questions/21805590/css-sticky-footer>
+
+```
+/* Mostly: http://ryanfait.com/sticky-footer/ */
+
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+.site-footer, .page-wrap:after {
+  /* .push must be the same height as footer */
+  height: 142px; 
+}
+.site-footer {
+  background: orange;
+}
+
+```
+    
+Snippet link: <https://css-tricks.com/snippets/css/sticky-footer/>
