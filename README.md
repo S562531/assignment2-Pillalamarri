@@ -33,8 +33,15 @@ If I had to choose between travel and money, I would choose travel. because trav
 
 |  **Name of Country**  | **Why to visit** | **No of days**|
 | :------------ | :------------: | :------------: |
-| 1. India    | I never seen Taj Mahal   | 30 |
-| 2. USA          | To enjoy the Niagara Falls   | 15 |
-| 3. Paris        | To look at the Eiffel Tower   | 180 |
-| 4. China         |  The Great wall of china          | 7 |
+| 1. Paris    | To visit Louvre Museum   | 44 |
+| 2. USA    | Yellowstone National Park   | 7 |
+| 3. Paris        | Eiffel Tower   | 90 |
+| 4. New york         |  Statue of Liberty          | 75 |
 
+---
+
+### Funny Quote
+
+> *“Never criticize your spouse’s faults; if it weren’t for them, your mate might have found someone better than you.” —Jay Trachman*
+
+> *“Instead of getting married again, I’m going to find a woman I don’t like and give her a house.” —Rod Stewart*
